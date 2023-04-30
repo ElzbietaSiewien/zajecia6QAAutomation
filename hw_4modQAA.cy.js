@@ -27,7 +27,6 @@ describe("Testy dla API: https://httpbin.org", () => {
   });
 
 
-
 it("Test_3 zmienne", () => {
   cy.request({
     method: "GET",
