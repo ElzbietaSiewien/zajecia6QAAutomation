@@ -1,3 +1,21 @@
 {
-  "description": ""
+  "name": "hw_4modQAA",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElzbietaSiewien/zajecia6QAAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElzbietaSiewien/zajecia6QAAutomation/issues"
+  },
+  "homepage": "https://github.com/ElzbietaSiewien/zajecia6QAAutomation#readme"
 }
